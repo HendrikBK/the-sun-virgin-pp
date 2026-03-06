@@ -1,6 +1,9 @@
 Dedication
     - Leguia -> Leguía
 
+Pg. 19
+    high strung -> high-strung
+
 Pg. 33
     hugh -> huge
 
@@ -16,8 +19,17 @@ Pg. 54
 Pg. 104
     vet -> yet
 
+Pg. 149
+    foot soldiers -> foot-soldiers
+
 Pg. 186
     plums -> plumes
 
 Pg. 195
     Replace period with comma after "repressed it"
+
+Pg. 220
+    bloodshot -> blood-shot
+
+Pg. 230
+    bare-footed -> barefooted
