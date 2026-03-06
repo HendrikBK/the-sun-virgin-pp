@@ -10,33 +10,30 @@ THE SUN VIRGIN
 BOOKS BY THOMAS DIXON
 
 
-/*
-  <sc>The Sun Virgin</sc>
-  <sc>The Love Complex</sc>
-  <sc>The Black Hood</sc>
-  <sc>The Man in Gray</sc>
-  <sc>A Man of the People</sc>
+  THE SUN VIRGIN
+  THE LOVE COMPLEX
+  THE BLACK HOOD
+  THE MAN IN GRAY
+  A MAN OF THE PEOPLE
   (A Play)
-  <sc>The Way of a Man</sc>
-  <sc>The Fall of a Nation</sc>
-  <sc>The Foolish Virgin</sc>
-  <sc>The Victim</sc>
-  <sc>The Southerner</sc>
-  <sc>The Sins of the Father</sc>
-  <sc>The Leopard’s Spots</sc>
-  <sc>The Clansman</sc>
+  THE WAY OF A MAN
+  THE FALL OF A NATION
+  THE FOOLISH VIRGIN
+  THE VICTIM
+  THE SOUTHERNER
+  THE SINS OF THE FATHER
+  THE LEOPARD’S SPOTS
+  THE CLANSMAN
   (The Birth of a Nation)
-  <sc>The Traitor</sc>
-  <sc>The One Woman</sc>
-  <sc>Comrades</sc>
-  <sc>The Root of Evil</sc>
-  <sc>The Life Worth Living</sc>
-*/
+  THE TRAITOR
+  THE ONE WOMAN
+  COMRADES
+  THE ROOT OF EVIL
+  THE LIFE WORTH LIVING
 
 
 
 
-/*
   THE
   SUN VIRGIN
 
@@ -46,27 +43,22 @@ BOOKS BY THOMAS DIXON
 
   NEW YORK
   HORACE LIVERIGHT: 1929
-*/
 
 
 
 
-/*
-  <i>Copyright : 1929 : by</i>
+  _Copyright : 1929 : by_
   THOMAS DIXON
 
-  <i>Printed in the United States</i>
-*/
+  _Printed in the United States_
 
 
 
 
-/*
-  <i>Dedicated to</i>
-  <sc>Augusto B. Leguía</sc>
+  _Dedicated to_
+  AUGUSTO B. LEGUÍA
   PRESIDENT OF PERU
   WITH ADMIRATION
-*/
 
 
 
@@ -85,7 +77,7 @@ CHAPTER I
 
 
 The brilliant young ruler of Spain, Charles V, had just extended his
-empire over the half of Europe, and his <i>Conquistadores</i> were
+empire over the half of Europe, and his _Conquistadores_ were
 planting the flag in Mexico and Darien.
 
 A threatening rabble of ragged seamen stood before the governor’s
@@ -129,7 +121,7 @@ and a dead silence followed.
 The little man spoke with deadly deliberation.
 
 “No whine from cowards in the governor’s ears to-day, swine! Hardship?
-suffering? danger? <i>Por Dios!</i> Did you go on a pleasure jaunt? You
+suffering? danger? _Por Dios!_ Did you go on a pleasure jaunt? You
 enlisted as a soldier. A soldier’s business is to die. Open your mouth
 at this hearing--if you dare. I will not answer you. No--God’s light!
 I’ll spit you with my sword and roast you in hellfire!”
@@ -267,7 +259,7 @@ called:
 “Soldiers of Spain! On the south side of this line are hunger,
 nakedness, storms, suffering, and death; on the north side lie ease and
 pleasure, drink and idleness in Panama. Choose! Choose each man what
-best becomes a brave Castilian! For my part, <i>I</i> go to the south!”
+best becomes a brave Castilian! For my part, _I_ go to the south!”
 
 Pizarro stepped across the line to be immediately followed by Ruiz,
 Pedro de Candia and eleven others of his men. Molina roused from the
@@ -416,7 +408,7 @@ She watched him through tears and once more embraced him fiercely. He
 responded, and they stood in trembling ecstasy. And then through her
 tears she whispered:
 
-“I shall <i>not</i> be separated from you. I’m going.”
+“I shall _not_ be separated from you. I’m going.”
 
 Once more he laughed at her whim and released her as he turned sharply
 at the clank of Almagro’s sword at the door. Bidding her farewell, he
@@ -428,7 +420,7 @@ had hung on. But he had done more. He had made of his act a ceremony
 that fired the imagination.
 
 “Sometimes,” Almagro confided to Molina, “I suspect and hate that man.
-But it’s joy to follow Pizarro. He <i>leads</i>!”
+But it’s joy to follow Pizarro. He _leads_!”
 
 The conference fell to work without delay. The case was desperate, but
 Pizarro’s daring deed had aided it mightily. It was not a question of
@@ -450,7 +442,7 @@ and I need them here.”
 you were specifically instructed by the Crown, in taking office, to
 aid Pizarro’s enterprise.”
 
-“Not specifically, <i>padre</i>,” Rios corrected, “but merely
+“Not specifically, _padre_,” Rios corrected, “but merely
 incidentally. I was specifically instructed to reorganize this colony
 in harmony with the ideals and principles of Spanish civilization. I
 was specifically instructed to bring the former governor, Pedrarias,
@@ -477,7 +469,7 @@ Father Luque then paused, drew himself erect and added in solemn tones:
 leave Pizarro and his men to die on a lonely isle in the Southern Sea,
 I’ll see to it that you answer to the Court of Spain for this act!”
 
-“Dare! <i>Dare</i> did you say?” roared the governor.
+“Dare! _Dare_ did you say?” roared the governor.
 
 “I have said it,” was the sober answer.
 
@@ -505,7 +497,7 @@ to-morrow.”
 build a small vessel, equip her with stores and a supply of arms and
 ammunition and start at the earliest possible moment.”
 
-<tb>
+       *       *       *       *       *
 
 At last the little ship tugged at her anchor ready for the rescue.
 Ruiz, her pilot, was in high spirits.
@@ -582,7 +574,7 @@ almost delirious.
 
 He leaped to his feet.
 
-“Ships! Ships! Lift up your heads, my comrades, and <i>live</i>!”
+“Ships! Ships! Lift up your heads, my comrades, and _live_!”
 
 The two sinking soldiers smiled for the first time in dreary weeks,
 and their captain knew that they would live. They were too feeble to
@@ -644,7 +636,7 @@ the island of Santa Clara at the entrance of the bay of Tumbez. Early
 next morning they stood across the bay toward the city whose houses
 could now be seen.
 
-Halfway across, Pizarro encountered a fleet of <i>balsas</i> carrying
+Halfway across, Pizarro encountered a fleet of _balsas_ carrying
 warriors to subdue a rebellious island. He invited the chiefs to come
 on board his ship. The Peruvians were amazed at the sight of their own
 people with the strangers. The Indians with Pizarro explained their
@@ -660,9 +652,9 @@ floating house in the bay, and marveled at the white wings folded so
 snugly on its back.
 
 But the governor of the district heard the news with grave misgivings.
-Evidently the strangers <i>were</i> of a race of superior beings, if
+Evidently the strangers _were_ of a race of superior beings, if
 not indeed gods. He hastened to greet them with the most friendly
-hospitality. <i>Balsas</i> were loaded with bananas, plantains, yucca,
+hospitality. _Balsas_ were loaded with bananas, plantains, yucca,
 corn, sweet potatoes, pineapples, cocoanuts and other rich products. He
 also sent game and fish, and, what was most marvelous of all, a number
 of live llamas of which Pizarro had seen rude drawings while serving
@@ -673,7 +665,7 @@ reminded them of diminutive camels. They felt the thick coating of wool
 and hair which accounted for the specimens of woolen cloth which they
 had seen on a former voyage.
 
-With the <i>balsas</i> the governor sent as his ambassador and
+With the _balsas_ the governor sent as his ambassador and
 spokesman a Peruvian nobleman wearing huge ornaments of gold attached
 to his ears. The rich costume and the deference paid him by his
 attendants at once marked his high rank.
@@ -755,7 +747,7 @@ of joyous worship that made him feel that he had forgotten Teresa in
 permitting it. But certainly he could not have forbidden it. He was
 possessed with a curious presentiment that he would see her again,
 that there was danger in their meeting--but also he trembled with
-anticipation. For Yma <i>was</i> beautiful.
+anticipation. For Yma _was_ beautiful.
 
 He turned quickly to the interpreter, who had witnessed the scene in a
 sort of fascinated terror, and asked:
@@ -767,7 +759,7 @@ sort of fascinated terror, and asked:
 The cavalier threw a startled look at the white retreating figure. She
 stopped, lifted her hand and waved to him her farewell.
 
-Molina was escorted to the palace of the <i>curaca</i> and found him
+Molina was escorted to the palace of the _curaca_ and found him
 living in state. Sentinels guarded the door and his reception room was
 decorated with huge vases of pure gold, while the latches and door
 trimmings were of solid silver. He inspected the fortress of stones and
@@ -825,7 +817,7 @@ success. The natives have received us as demigods and heaven points
 the way to our sure triumph. We will return with a mighty fleet and
 army.”
 
-A shout rent the air. The Peruvians in their <i>balsas</i> swarming
+A shout rent the air. The Peruvians in their _balsas_ swarming
 about the ship mistook the cries for a farewell cheer. They lifted
 their hands and called a joyous answer. Little could their simple minds
 know the real meaning of the yell from the little ship’s deck.
@@ -856,7 +848,7 @@ The cavalier’s figure stiffened.
 In a few minutes, he stood beside the rail with a native interpreter
 and Congo, his servant, ready to depart on his important and dangerous
 mission. There was no need to launch a boat to set him ashore. A fleet
-of <i>balsas</i> again surrounded the ship bringing, with best wishes
+of _balsas_ again surrounded the ship bringing, with best wishes
 from the governor, a fresh supply of food for their voyage. Pizarro
 delivered his final message to the people.
 
@@ -875,7 +867,7 @@ declined with reluctance.
 “I am instructed, Your Excellency, to report at once to your sovereign
 as the accredited ambassador of Spain.”
 
-The <i>curaca</i> gave swift orders to his attendants, and within half
+The _curaca_ gave swift orders to his attendants, and within half
 an hour, two splendid litters draped in scarlet cloth, trimmed in gold,
 drew up before the door. Four stalwart men held the bars of each sedan.
 
@@ -896,7 +888,7 @@ conveyance.
 
 As the cortège of bearers and guards were about to start on the
 journey to the court at Quito, a barefooted, barelegged athlete dashed
-up to the governor and whispered a message. The <i>curaca</i> waved to
+up to the governor and whispered a message. The _curaca_ waved to
 a group of native soldiers lounging across the way and in a few minutes
 a litter veiled heavily in deep purple drew up behind the baggage train.
 
@@ -1030,7 +1022,7 @@ their great father Huyna Capac, who so loved the beautiful mother of
 our Lord of the Sun, that their second son, Atahualpa, was made equal
 in power to the lawful heir Huascar.”
 
-Molina listened carefully. <i>Two</i> Incas! Two Incas might breed
+Molina listened carefully. _Two_ Incas! Two Incas might breed
 jealousy. And jealousy might breed--The young cavalier’s heart beat
 exultantly.
 
@@ -1063,7 +1055,7 @@ trimmed in jewels, rising three inches above his shoulders. His head
 was covered with a cone-shaped crown of gold tipped with scarlet
 feathers. Pendants of emeralds hung from his ears to his shoulders.
 Beneath the cone-shaped crown, projected to the eyebrows the scarlet
-<i>borla</i> fringe, the supreme emblem of his power, symbol of both
+_borla_ fringe, the supreme emblem of his power, symbol of both
 human and divine attributes. He was both sovereign and God to his
 people. In the center of the crown blazed the sign of the sun, and
 on his breast he wore the same emblem which had been wrought in the
@@ -1166,7 +1158,7 @@ permission of the Inca. The Sun Virgins are the nominal brides of the
 monarch.”
 
 Molina recalled the guard who had led her away at Tumbez. He
-remembered, with racing pulses, his meeting with her. <i>She</i> was
+remembered, with racing pulses, his meeting with her. _She_ was
 the mystery behind the veiled litter.
 
 “God! And they mocked her death by commanding her to lead this dance?”
@@ -1195,7 +1187,7 @@ his royal visage stern.
 excitement that swept the people of Tumbez at sight of our ship,
 and of the strange, bearded beings who sailed it, we were called
 messengers from heaven. They thought us more than men. They called us
-<i>god</i>-men. Surely, she might be forgiven that she forgot her vow
+_god_-men. Surely, she might be forgiven that she forgot her vow
 in such an excited hour. Will Your Majesty ask her if she thought me
 human?”
 
@@ -1388,7 +1380,7 @@ ambition, is still the law in Panama. We must face the facts.”
 
 “And let the toil, sacrifice, and faith of years go for naught?”
 Almagro flared. “Shall we stand idle while others leap in and seize
-our prize? <i>Por las entrañas de Dios</i>, I’ll strangle the upstart
+our prize? _Por las entrañas de Dios_, I’ll strangle the upstart
 first!”
 
 Father Luque lifted his hand in disapproval, both of the blasphemy and
@@ -1601,7 +1593,7 @@ The courier gave him friendly advice.
 
 “Show His Majesty your llamas and woolen cloth first. He is keenly
 interested in developing his textiles. Then your golden vessels. He
-needs gold. The <i>Cortes</i> will grant him no money for foreign wars.
+needs gold. The _Cortes_ will grant him no money for foreign wars.
 He has just beaten the King of France, but a new war looms. The Pope
 will soon crown him Emperor of Italy, but he must defend his title.
 The Sultan of Turkey is mobilizing another army to march on Vienna and
@@ -1906,7 +1898,7 @@ give the Crown one-fifth of their spoils.
 Ruiz received the title of Grand Pilot of the Southern Seas, de
 Candia was made Commander of the Artillery and the remaining
 faithful followers on the Island of Gallo were made hidalgos and
-<i>cavalieros</i>.
+_cavalieros_.
 
 Pizarro protested at the unequal distribution of honors between himself
 and his partner, Almagro. But the Council was obdurate in refusing to
@@ -2313,7 +2305,7 @@ These were not only for the use of the traveling public, but were the
 homes of the post runners who carried the royal mails with such swift
 efficiency.
 
-These runners, called <i>chasquis</i>, were young athletes selected for
+These runners, called _chasquis_, were young athletes selected for
 their speed and fidelity. In addition to the delivery of the royal mail
 they also carried delicacies for the table of the Inca and his nobles:
 fish, fresh from the sea and streams, and fruits and game. Molina could
@@ -2392,7 +2384,7 @@ Corn, potatoes, and llama mutton were the staple foods. The people ate
 but two meals a day, one in the forenoon and one at sunset.
 
 Their principal drink was a beer made from corn and a more highly
-developed whisky which was called <i>sora</i>. They had early learned
+developed whisky which was called _sora_. They had early learned
 the magic qualities of the coca shrub and chewed its leaves as a sort
 of tobacco. Its effects were stimulating to a high degree. By chewing
 these leaves, from which the modern drug of cocaine is distilled, a
@@ -2482,7 +2474,7 @@ know that Atahualpa is the better man and Huascar will yet yield the
 southern kingdom to his brother.”
 
 He had scarcely finished his speech when a royal runner bounded to his
-side and delivered a <i>quipa</i> message bearing the imperial seal of
+side and delivered a _quipa_ message bearing the imperial seal of
 Atahualpa.
 
 The official read with frowning brow.
@@ -2529,7 +2521,7 @@ The scene was set at the foot of the towering peak of Chimborazo. The
 Spaniard’s blood leaped at the sight of Atahualpa’s host drawn up in
 line of battle. The strength of their equipment amazed him. Without
 cavalry, swords or muskets, they still carried weapons, that, used
-<i>en masse</i>, made sure impressive results.
+_en masse_, made sure impressive results.
 
 They had developed nearly every weapon known of man before the
 invention of gunpowder. Only their swords and lances lacked the hard
@@ -2662,19 +2654,19 @@ sands of the desert as their shrouds.
 
 Pizarro halted at the Gulf of Guayaquil and received a deputation of
 chiefs from the Island of Puna off the Bay of Tumbez. They invited him
-to their shores and offered safe passage on their <i>balsas</i>.
+to their shores and offered safe passage on their _balsas_.
 
 In spite of the warnings of his interpreters Pizarro decided to accept
 the invitation. He immediately dispatched all three of the ships back
 to Panama with the treasure which he had taken, and a call for recruits.
 
-His little army was embarked on the huge <i>balsas</i> of the islanders
+His little army was embarked on the huge _balsas_ of the islanders
 and safely landed. They camped on a good site selected by the chiefs
 and every soldier was provided with comfortable quarters. He resolved
 to remain till the end of the rainy season when the arrival of
 reënforcements would make his descent on Tumbez in ships an easy task.
 
-The <i>curaca</i> of Tumbez no sooner heard of the arrival of the
+The _curaca_ of Tumbez no sooner heard of the arrival of the
 friendly strangers who had visited their city two years before than
 he sent a delegation of armed men and invited the Spaniards to the
 mainland. The visitors, on the day of their landing, warned Pizarro of
@@ -2714,10 +2706,10 @@ moment was opportune for his invasion. A small army of Spaniards might
 accomplish a miracle under such conditions.
 
 On landing at Tumbez, Pizarro was astonished to learn that one of his
-<i>balsas</i>, which had preceded him, loaded with baggage in charge
+_balsas_, which had preceded him, loaded with baggage in charge
 of three of his men, had been captured by natives when it touched the
 shore. All three of the soldiers had been dragged into the brush and
-killed. Another <i>balsa</i>, loaded with his own effects, was barely
+killed. Another _balsa_, loaded with his own effects, was barely
 saved by Hernando Pizarro’s charge of cavalry through the mud of the
 beach at low tide. The horses plunged in slime to the saddle girths but
 drove the attacking party to cover.
@@ -2751,7 +2743,7 @@ drink of liquor. I can doze and dream there with less trouble.”
 
 Pizarro dispatched scouting parties through the surrounding territory
 and brought in a few captives. Among his prisoners he luckily found the
-<i>curaca</i> of Tumbez.
+_curaca_ of Tumbez.
 
 When arraigned and asked an explanation of the attack on his men, the
 governor pleaded ignorance of the occurrence. It could only have been
@@ -2766,7 +2758,7 @@ The Spaniard was not sure of the truth of the explanation. There was
 still a chance that the city had been destroyed to prevent its capture
 by his men. The violence of his first attack in the north might,
 after all, have inspired this method of accomplishing his ruin. The
-<i>curaca</i> offered his humble submission and promised the loyalty of
+_curaca_ offered his humble submission and promised the loyalty of
 his people.
 
 Pizarro accepted the surrender and determined at once on a new policy.
@@ -2778,7 +2770,7 @@ disarm fear. He must make the natives his friends.
 Urged by Teresa, the commander made of the governor the most searching
 inquiries as to the fate of Alonso de Molina.
 
-“The reports are contradictory,” the <i>curaca</i> apologized. “Some
+“The reports are contradictory,” the _curaca_ apologized. “Some
 say that he died of the plague. Others that he died in battles of the
 civil war. Still others claim that he lost his life in a struggle over
 a beautiful girl. The truth we know not.”
@@ -2833,7 +2825,7 @@ organized with a full staff of officials.
 
 When the fortress had been completed and his power established he used
 for the first time a clause of his charter which established chattel
-slavery. Under the right of <i>repartimiento</i> he allotted to each
+slavery. Under the right of _repartimiento_ he allotted to each
 colonist a number of the natives needed to assist him in his work. The
 land had been staked out before this provision for labor had been made.
 
@@ -2855,7 +2847,7 @@ meet the sovereign and offer his men in the service of the imperial
 army.
 
 He had been informed that the Inca was at Caxamalca beyond the first
-<i>cordillera</i> of the Andes. He inquired at every stop for news of
+_cordillera_ of the Andes. He inquired at every stop for news of
 Molina.
 
 Five months had passed since the day of his ill-fated landing at
@@ -2902,7 +2894,7 @@ terror. It made the flesh creep. Its beauty was unearthly.
 
 The bare stalk of a tree shot straight into the air without leaf or
 limb to end in a cluster of giant buttercups, each half a foot across;
-the <i>lignum vitæ</i> was covered with myriads of tiny flowers the
+the _lignum vitæ_ was covered with myriads of tiny flowers the
 color of wisteria; the royal poinciana towered in flaming glory among
 a dozen others. One variety in particular seemed to break into endless
 billows of honey-yellow as far as the eye could penetrate.
@@ -2954,7 +2946,7 @@ preceded by swift scouts.
 The richer the cultivated fields became, the denser the prosperous
 population that watched his progress, and the more restless grew a
 portion of his followers. On reaching the road which turned from the
-main highway leading from Quito to Cuzco to cross the <i>cordillera</i>
+main highway leading from Quito to Cuzco to cross the _cordillera_
 to Caxamalca he halted his troops for a few days’ refreshment and a
 council of his officers.
 
@@ -3027,7 +3019,7 @@ Pizarro had cleared his camp of discontent and advanced with closed
 ranks. His army was now a unit and its heart beat with a single
 stroke, the stroke of the heart of its commander.
 
-At Zaran the <i>curaca</i> received him with kindness and quartered his
+At Zaran the _curaca_ received him with kindness and quartered his
 troops as usual in the royal commissary. The governor could give him no
 information as to the exact spot of the Inca’s camp but had heard that
 a division of the army lay at Caxas, a village among the hills at no
@@ -3094,7 +3086,7 @@ She determined to take Congo with Molina on a journey she had long
 planned to a shrine in the mountains overhanging the city. An important
 fortress crowned the summit of the range and he was deeply interested
 in every work of defense. And there, in the vastness of the ranges,
-she would attack, for she was interested in every work of <i>his</i>
+she would attack, for she was interested in every work of _his_
 defense.
 
 Her voice was casual as she broached the subject to the cavalier.
@@ -3272,7 +3264,7 @@ trailed from its first brusque notes into the tenderest appeal.
 
 But she did tempt him. She threw her arms around his neck and kissed
 his lips. He held her. He could feel the throb of her heart. Teresa
-<i>was</i> many miles away. Here in the wilderness, this flower of the
+_was_ many miles away. Here in the wilderness, this flower of the
 Sun bloomed in voluptuous beauty. Here in the wilderness her love could
 assuage his loneliness. Here in the wilderness, the free primitive....
 
@@ -3318,7 +3310,7 @@ The girl seized his arm.
 
 Toparca nodded, and smiled.
 
-“He is to die! You <i>smile</i>!”
+“He is to die! You _smile_!”
 
 “Could I smile at your anguish, dear Yma?”
 
@@ -3336,7 +3328,7 @@ The cavalier had doffed his coat and was preparing to sleep. They
 stood, gazing at each other.
 
 “Dear Yma,” he began slowly, “why--why this folly? There can be no
-<i>love</i> between us. You are too young and too beautiful and have
+_love_ between us. You are too young and too beautiful and have
 honored me too highly to permit me to betray you.”
 
 Yma looked at him long and tenderly.
@@ -3432,7 +3424,7 @@ conceal her pleasure. Yma sighed her admiration at the subtlety of her
 lover.
 
 “I could almost believe after that speech,” she replied, “that you
-<i>are</i> an ambassador--not a spy. Surely the god-men of your Spain
+_are_ an ambassador--not a spy. Surely the god-men of your Spain
 have studied the hearts of women....”
 
 “I spoke but sober truth, Your Highness....”
@@ -3685,7 +3677,7 @@ and directions by which he might be reached. He was still praying for
 reënforcements with better equipment.
 
 Resuming his march, he entered now the narrow and less frequented road
-that directly crossed the <i>cordillera</i> to Caxamalca. Arrived at
+that directly crossed the _cordillera_ to Caxamalca. Arrived at
 the banks of a broad, deep river whose swift current made difficult
 the crossing, he camped for four days still hoping for reënforcements.
 When time had passed sufficient to allow a courier to return from San
@@ -3784,7 +3776,7 @@ looking down on the beautiful valley of Caxamalca through which a river
 wound its way, a silver thread in a carpet of rich green.
 
 He had just seen a division of the Inca’s army cross the valley and
-march up the trail leading across the <i>cordillera</i>. Beyond doubt
+march up the trail leading across the _cordillera_. Beyond doubt
 the movement was the result of Pizarro’s advance.
 
 He wondered where his gallant countrymen had pitched their tents. If
@@ -3844,7 +3836,7 @@ securely and made his way out without difficulty. The loss of beard and
 a brown stain on his face had completely transformed his appearance.
 Carrying the bronze spear of the Inca’s army he hurried down the steep
 steps of the cliff, crossed the river and followed the narrow road up
-the sides of the <i>cordillera</i> which he had seen the army take.
+the sides of the _cordillera_ which he had seen the army take.
 
 The trail was clearly marked by lines of stragglers still bringing up
 the rear of the advancing division which had just begun to pitch their
@@ -3950,13 +3942,13 @@ sent to secure his arrest. Yma refused to allow it.
 returns because I have asked him.”
 
 The guard fell in respectfully behind them and the cavalier marched to
-the fortress, and calmly surrendered. The <i>curaca</i> of Caxamalca
+the fortress, and calmly surrendered. The _curaca_ of Caxamalca
 ordered him in chains and saw that he was securely manacled in spite of
 Yma’s furious protests.
 
 Molina soothed her anger.
 
-“It’s all in the fortunes of war, dear Yma. The <i>curaca</i> is right
+“It’s all in the fortunes of war, dear Yma. The _curaca_ is right
 to take precautions. It’s my fault. We’ll make the best of it.”
 
 To Congo’s terror they brought a set of chains for him. His eyes fairly
@@ -3989,7 +3981,7 @@ CHAPTER XV
 Before beginning the ascent of the Andes, Pizarro divided his forces,
 selecting forty cavalrymen and sixty foot-soldiers under his own
 command to lead. The remaining sixty-nine men he left at the base of
-the <i>cordillera</i> to await his word to advance.
+the _cordillera_ to await his word to advance.
 
 He would trust no other leader with the danger of fighting a way up the
 frowning ramparts that towered menacingly into the clouds above him.
@@ -4045,7 +4037,7 @@ southward.”
 “Four thousand!” Pizarro echoed.
 
 “More than four thousand. And in places it is more than five hundred
-miles across the three <i>cordilleras</i>. Here is it three hundred
+miles across the three _cordilleras_. Here is it three hundred
 miles to the great rivers that flow eastward to the sea.”
 
 Pressing forward for the next climb, they edged down a sharp, dangerous
@@ -4239,7 +4231,7 @@ The Peruvian waved to his attendants.
 
 “Refreshments for our visitors.”
 
-His servants set forth flagons of <i>chica</i>, the fermented juice
+His servants set forth flagons of _chica_, the fermented juice
 of corn, and served it to the officers in goblets of gold. The hands
 of the Spaniards trembled as they grasped these evidences that their
 dreams would come true.
@@ -4282,7 +4274,7 @@ The ambassador smiled, and waved to his accuser:
 The native poured out a torrent of abuse and hurled his final words at
 the head of the nobleman.
 
-“I dared them to touch me. If they did, I told them that <i>your</i>
+“I dared them to touch me. If they did, I told them that _your_
 life would pay the penalty here!” he bellowed.
 
 The envoy maintained his poise and coolly replied to the tirade. He
@@ -4507,7 +4499,7 @@ sovereign under the leadership of Yma.
 The monarch’s face was a mask that gave no inkling of the thoughts
 passing in his brain. He wore his full robes of State.
 
-The High Priest, or <i>Villac Vmu</i>, was also in full regalia and
+The High Priest, or _Villac Vmu_, was also in full regalia and
 an even more striking figure than the Inca. Above a dark sleeveless
 garment covering the old man’s body was wound a silk-like white toga
 adorned with gold and precious stones, bordered with red fringe and
@@ -4796,7 +4788,7 @@ enough. His manner in speaking was far more significant. He spoke as a
 ruler conscious of unlimited power. Mark well his words:
 
 “‘I will then visit him with my staff. Let him occupy the public
-buildings on the square, <i>and no others</i>, till I come, when I will
+buildings on the square, _and no others_, till I come, when I will
 order what shall be done.’ He does not propose to consult your wishes
 in the matter. He will call to make known to you his decision as to
 your fate. I don’t like the looks of it. We’ve got to face the facts.”
@@ -4831,10 +4823,10 @@ response.
 
 “My comrades,” he went on steadily, “you are carrying the banners of
 Spain in a holy crusade for your God, His Church, and our Empire. Are
-you ready when I call to you ‘<i>Christo y Santiago!</i>’?”
+you ready when I call to you ‘_Christo y Santiago!_’?”
 
 Almost with a single voice, the men caught his enthusiasm. A shout
-arose, “<i>Christo y Santiago!</i>”
+arose, “_Christo y Santiago!_”
 
 Pizarro left them with quick step and called his officers.
 
@@ -4949,7 +4941,7 @@ murmurs of admiration and approval swept the crowd.
 
 “As God lives!”
 
-“<i>Por las entrañas de Dios!</i> That’s a leader for you!”
+“_Por las entrañas de Dios!_ That’s a leader for you!”
 
 In the halls with wide entrances on the plaza, he stationed his
 cavalry, one division under his brother Hernando, the other under De
@@ -4994,7 +4986,7 @@ with great solemnity in the somber shadows of the building in which
 the cavalry were stationed. At the end Pizarro prayed the God of their
 fathers to strengthen their arms for the battle to extend the Kingdom
 of the Cross over the world. He led and all joined in singing the
-chant, “<i>Exsurge, Domine</i>”--“Rise, O Lord, and judge Thine Own
+chant, “_Exsurge, Domine_”--“Rise, O Lord, and judge Thine Own
 Cause!”
 
 Whatever his faults the cavalier of Spain in the sixteenth century
@@ -5008,8 +5000,8 @@ their leader and themselves.
 
 It was noon before a decided movement could be seen in the camp of
 the Inca. The men were growing restless, when a messenger arrived.
-The <i>Quicha</i> language had no alphabet, and, the words made with
-the knotted colored strings of the <i>quipa</i> being unknown to the
+The _Quicha_ language had no alphabet, and, the words made with
+the knotted colored strings of the _quipa_ being unknown to the
 Spaniards, the message was delivered by spoken word.
 
 “Our Lord of the Sun begs to inform you that he comes fully armed in
@@ -5173,7 +5165,7 @@ devoutly.
 The word was quickly passed and once more the soldiers gripped their
 weapons in a tense silence.
 
-As the sun was sinking behind the peaks of the <i>cordillera</i>
+As the sun was sinking behind the peaks of the _cordillera_
 the royal procession entered the gates of the city. As the Spaniard
 watched he could now have little doubt that the first purpose of the
 march with a splendid army was for display and in honor of his guests.
@@ -5205,7 +5197,7 @@ gleaming in the rays of the sinking sun. The canopy above his litter
 was covered with the gayest plumes of tropical birds and studded with
 gem-set yellow plates. He wore a costume of more resplendant materials
 than at his first reception. His neck was circled with a collar of
-brilliant emeralds of enormous size, and the scarlet <i>borla</i> that
+brilliant emeralds of enormous size, and the scarlet _borla_ that
 bound his brow was bordered with priceless stones. He glanced at the
 crowds of his attendants with an air of commanding indifference.
 
@@ -5323,17 +5315,17 @@ sharp and to the point.
 
 “Do you not see,” he whispered, “that while we stand here talking to
 this dog full of pride, the fields are swarming with his soldiers. Lead
-<i>on at once</i>. I absolve you.”
+_on at once_. I absolve you.”
 
 Pizarro sprang for the doorway and waved a white scarf to Pedro Candia.
 A cannon roared from the ramparts, and he sprang into the square,
 lifted his sword and shouted:
 
-“<i>Christo y Santiago!</i>”
+“_Christo y Santiago!_”
 
 From every Spanish throat came the answering shout:
 
-“<i>Christo y Santiago!</i>”
+“_Christo y Santiago!_”
 
 The long strain of the day’s waiting, their alternate high hopes and
 uncertainty, combined with the dangers of their position transformed a
@@ -5390,7 +5382,7 @@ sprang to the rescue and received a slight wound in the wrist.
 “Let no one who values his life strike the Inca!” the captain shouted,
 catching the monarch in his arms.
 
-The imperial <i>borla</i> was snatched from his brow by a struggling
+The imperial _borla_ was snatched from his brow by a struggling
 soldier, his arms were pinioned, he was led into the building and
 securely chained.
 
@@ -5802,7 +5794,7 @@ was far greater than they had dared to expect. The size and weight of
 the solid gold service from the royal household were unbelievable. Huge
 emeralds had been taken in dozens from both the living and the dead.
 The lowest estimate made of the value of the treasure was more than a
-hundred thousand <i>castellanos</i> in gold.
+hundred thousand _castellanos_ in gold.
 
 While the loot was being stored and placed under heavy guard, the
 women of the royal household were led into the presence of Pizarro
@@ -5947,7 +5939,7 @@ true.
 De Soto warned of the dangers.
 
 “Remember, Francisco, the distance is great--at least seven hundred
-miles. The way across the <i>cordillera</i> may be blocked by a few
+miles. The way across the _cordillera_ may be blocked by a few
 hostile troops. Our force is small. Our fighting force will be greatly
 reduced by the reason of guarding our powerful prisoner. We must have
 recruits before we move.”
@@ -6135,7 +6127,7 @@ suspicion, and redoubled the vigilance of his guard.
 
 Yma had quickly seen the importance of this court scene. It fitted
 perfectly with her scheme. While the ransom was pouring into Caxamalca,
-her chosen warriors were drilling in secret for the <i>coup</i> she had
+her chosen warriors were drilling in secret for the _coup_ she had
 planned.
 
 While Pizarro guarded the roads entering the Plaza with care, Yma and
@@ -6149,7 +6141,7 @@ concealed much longer.
 A faithful spy at Andamarca reported to the Court at Caxamalca that
 Huascar was wildly excited over the news of his rival’s fall. On the
 following night his courier was on the way with a message written in
-the <i>quipa</i> strings and knots which Felipillo could read. The road
+the _quipa_ strings and knots which Felipillo could read. The road
 from Andamarca led across the ridge on which the fortress stood in
 which Molina was hidden.
 
@@ -6170,7 +6162,7 @@ toward Caxamalca.
 
 Her two guards leaped like jaguars and the fight was on. With desperate
 courage the men from Andamarca fought until overcome. But with a knife
-at his throat the leader surrendered his <i>quipa</i> message. The two
+at his throat the leader surrendered his _quipa_ message. The two
 were bound, led into the fortress and safely lodged to await the orders
 of the Inca.
 
@@ -6240,7 +6232,7 @@ was convened in a secret chamber below.
 
 The question of Huascar’s treason was put to the Council and his death
 decreed by unanimous vote. The High Priest wrote the sentence in the
-<i>quipa</i>, and the Inca signed it with the scarlet knot only tied by
+_quipa_, and the Inca signed it with the scarlet knot only tied by
 his hand.
 
 “To-morrow I will dispatch this order to the keeper of the prison at
@@ -6265,7 +6257,7 @@ more than seventy-five pounds and five to six miles a day was the limit
 to which they could be pressed.
 
 In spite of these difficulties, articles worth as much as two hundred
-thousand <i>castellanos</i> sometimes came in a day and once the total
+thousand _castellanos_ sometimes came in a day and once the total
 daily receipts reached three hundred and fifty thousand.
 
 Each article, carefully weighed, was piled in the room under heavy
@@ -6420,7 +6412,7 @@ Although sorely disappointed in the bare walls of the temple of the
 Great Spirit, the Spaniards reaped a good harvest of precious metal
 from the adjoining temple of the Sun and the homes of the nobility in
 the city. When weighed it amounted to the value of eighty thousand
-<i>castellanos</i>.
+_castellanos_.
 
 On his journey returning to Caxamalca he made a grave discovery. He
 learned that the ablest general of the empire lay at Xauxa with an army
@@ -6492,7 +6484,7 @@ commissioners met with foul play in the Temple? Had they been
 overwhelmed by an army marching from the South? Again the rumor mongers
 were busy, and nerves were on edge.
 
-Something <i>had</i> happened in Cuzco. The men sent on this mission
+Something _had_ happened in Cuzco. The men sent on this mission
 had proven themselves the veriest boors in the presence of the
 distinguished priests and nobles who received them. The royal message
 to desecrate the temples had been received with surprise and grief; yet
@@ -6578,8 +6570,7 @@ He called his own secretary and dictated a letter to Almagro breathing
 in every line the best spirit of their old days of suffering and mutual
 hardships:
 
-/#
-  “<i>Dear Comrade: I have just heard of your landing with the greatest
+  “_Dear Comrade: I have just heard of your landing with the greatest
   joy. I salute you as my equal partner in the most glorious enterprise
   ever set on foot by daring men. My first stroke has been a miracle.
   My good fortune is yours. We have only begun the work. We are yet
@@ -6588,12 +6579,9 @@ hardships:
   refuse to believe the foolish statement of your secretary that you
   have broken our agreement and intend to set up a rival government.
   Hasten to Caxamalca. Your old friend will receive you with open arms
-  and equal authority.</i>
+  and equal authority._
 
-/*
-    “<i>Francisco Pizarro.</i>”
-*/
-#/
+    “_Francisco Pizarro._”
 
 Almagro’s answer to this generous letter was characteristic of the man.
 
@@ -6658,7 +6646,7 @@ been accustomed. His royal wardrobe was kept with immaculate care by
 the Virgins of the Sun in constant attendance. On ceremonial occasions
 they exchanged his vicuna-robe of silken sheen for a curious one made
 of the skins of bats, soft as velvet. He resumed the wearing of the
-crimson <i>borla</i> on his forehead, the symbol of his sovereignty.
+crimson _borla_ on his forehead, the symbol of his sovereignty.
 The details of his court were conducted with the same care and
 reverence as before his capture.
 
@@ -6913,7 +6901,7 @@ At the end of a month the work of molding the gold into uniform ingots
 was finished. Under the eye of the king’s inspector from Spain they
 were weighed carefully and their value reckoned. The total amount, we
 are told by the ancient chronicler, was one million three hundred and
-twenty-six thousand five hundred and thirty-nine <i>pesos de oro</i>,
+twenty-six thousand five hundred and thirty-nine _pesos de oro_,
 equivalent to sixteen million dollars. To this was added a half million
 in silver.
 
@@ -6987,7 +6975,7 @@ gleam in the little captain’s eye and turned away in silence.
 Almagro and Pizarro quickly agreed that a small sum should be paid to
 the new force and they should reserve an amount equal to the Inca’s
 ransom out of the first spoils taken in Cuzco. As an additional balm to
-the dissatisfied a new <i>repartimiento</i> was ordered of the natives
+the dissatisfied a new _repartimiento_ was ordered of the natives
 and five thousand slaves were assigned to Almagro’s men.
 
 The settlement with Almagro made, Pizarro proceeded to the division of
@@ -7011,20 +6999,20 @@ common soldier. That they lost their heads for the moment was not to be
 wondered at.
 
 To Francisco Pizarro was allotted fifty-seven thousand two hundred and
-twenty-two <i>pesos</i> of gold and two thousand three hundred marks of
+twenty-two _pesos_ of gold and two thousand three hundred marks of
 silver, making him a millionaire in the coin of our day. In addition,
 as leader of the expedition, he was given the throne of the Inca, a
-chair of solid gold valued at twenty-five thousand <i>pesos</i>.
+chair of solid gold valued at twenty-five thousand _pesos_.
 
-Hernando Pizarro received thirty-two thousand <i>pesos de oro</i> and
+Hernando Pizarro received thirty-two thousand _pesos de oro_ and
 two thousand three hundred marks of silver.
 
-De Soto was given eighteen thousand <i>pesos de oro</i> and seven
+De Soto was given eighteen thousand _pesos de oro_ and seven
 hundred and twenty-four marks of silver.
 
 The new church was named San Francisco in honor of Francisco Pizarro,
-and endowed with two thousand two hundred and twenty <i>pesos</i> of
-gold. Almagro accepted twenty thousand <i>pesos</i> for himself and as
+and endowed with two thousand two hundred and twenty _pesos_ of
+gold. Almagro accepted twenty thousand _pesos_ for himself and as
 much for distribution among his men.
 
 An orgy of the wildest debauchery immediately followed. Pizarro was too
@@ -7438,7 +7426,7 @@ reverberated hollowly in the dungeon, while Teresa and Molina looked on.
 
 She dropped the sword, crossed to Teresa and stared into her face.
 
-“You <i>are</i> beautiful!” she sighed as she studied Teresa’s
+“You _are_ beautiful!” she sighed as she studied Teresa’s
 wondering countenance. “And you will love him I know. But never as I
 love and worship.” She paused, and added, “I yield him to you.”
 
@@ -7747,7 +7735,7 @@ of a wife to be loved and protected. That I never did. And you have
 established prostitution in Caxamalca--”
 
 “Silence!” Almagro shouted. “We are not on trial. We’re trying
-<i>you</i>!”
+_you_!”
 
 The Inca bowed gravely.
 
@@ -7756,7 +7744,7 @@ whether I have conspired to raise an insurrection. So far from this
 being true, I refused to escape when offered my freedom by a secret
 organization of my young men.”
 
-“So there <i>has</i> been a conspiracy!” Pizarro broke in angrily.
+“So there _has_ been a conspiracy!” Pizarro broke in angrily.
 
 “At my command they dispersed. I had given you my word and kept it.
 Since that day there has not been lifted a single hand in my kingdom
@@ -7855,7 +7843,7 @@ the water gingerly with his slender hoof. Teresa sprang to the ground,
 caught his flowing tail in her right hand and stroked his foaming
 haunches with her left. He swam the stream, and they began the last lap
 of the race. There were no mountain stairs to climb. The road north led
-up the valley between the <i>cordilleras</i>. She thanked God for this.
+up the valley between the _cordilleras_. She thanked God for this.
 
 She stopped at the lights of a village, warmed herself for a few
 minutes and asked news of De Soto. To her amazement she discovered that
@@ -7871,7 +7859,7 @@ amazement.
 “Yes, and we fear that he may die before you can reach Caxamalca.”
 
 “We’ll make it. The distance is only thirty miles. We’ll leave your
-horse with the <i>curaca</i> in charge of one of my men. Take his fresh
+horse with the _curaca_ in charge of one of my men. Take his fresh
 horse and we’ll ride.”
 
 In half an hour the squadron, forming in single file, began a desperate
@@ -7888,7 +7876,7 @@ Pizarro’s voice and a moment’s painful silence was broken by the sob of
 a woman. Yma had rushed out and brought back Molina. The girl gripped
 him, trembling.
 
-“You will not let them do this crime, my beloved! You <i>will</i> not!”
+“You will not let them do this crime, my beloved! You _will_ not!”
 she whispered. “Your arm is strong, your sword is cold and keen. I will
 help you. I have seen many men in this room who approve your words.
 They will help you--”
@@ -8104,7 +8092,7 @@ became again a stolid mask of bronze--a mask marked with supreme
 contempt.
 
 Two hours after sunset the trumpet called the soldiers into the Plaza
-of Caxamalca to witness the <i>auto de fe</i> on the 29th of August,
+of Caxamalca to witness the _auto de fe_ on the 29th of August,
 1533. A hundred blazing torches lighted the Plaza. News of the dreaded
 deed had spread a nameless terror in the heart of every native. That
 these new beings would dare to lay their hands in deadly violence on
@@ -8274,7 +8262,7 @@ betrayal of my rights as a judge in this matter--on guard!”
 De Soto’s sword flashed in the torch light and Pizarro’s answered. But
 men on each side restrained them. De Soto shook off the restraining
 hands, sheathed his sword, and fixed Pizarro with a look of contempt.
-“I salute you, chieftain, as a prince--<i>the prince of murderers!</i>”
+“I salute you, chieftain, as a prince--_the prince of murderers!_”
 He fixed his name at the head of the protest sent to Spain, and
 withdrew from the expedition.
 
@@ -8433,7 +8421,7 @@ and wondered if he could. There certainly was no question of the wisdom
 of her plans. The Incan Empire without an Inca could not long remain
 in peace. Some turbulent spirit would at last be found to lead an
 insurrection. If he could speak through the lips that moved beneath
-their scarlet <i>borla</i> the people might be held in quiet until he
+their scarlet _borla_ the people might be held in quiet until he
 had consolidated his power. The moment he was established the new Peru
 would swarm with thousands of Spaniards and the yoke would be set on
 their necks for all time.
@@ -8751,7 +8739,7 @@ plunged through his body.
 
 Pizarro sinks crying:
 
-“<i>Jesu!</i>”
+“_Jesu!_”
 
 Tracing the sign of the cross in his own blood, he kisses it and dies,
 while the ghost of an Incan mother broods in sorrowful triumph over the
