@@ -1,0 +1,31 @@
+header h3 + p {
+    text-align: center;
+    text-indent: 0;
+    text-transform: uppercase;
+}
+
+section > header,
+section > h3 {
+    margin-bottom: 2em;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li p {
+    text-align: center;
+}
+
+div.image-container {
+    text-align: center;
+}
+
+#titlepage img {
+    width: 4em;
+}
+
+footer p {
+    text-align: right;
+}
