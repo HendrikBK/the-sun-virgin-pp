@@ -37,7 +37,7 @@ BOOKS BY THOMAS DIXON
 
 
 /*
-THE[**all text surrounded by deco frame; full pg illo?]
+THE
 SUN VIRGIN
 
 BY THOMAS DIXON
@@ -58,8 +58,6 @@ THOMAS DIXON
 <i>Printed in the United States</i>
 */
 
-[Illustration]
-
 
 
 
@@ -69,13 +67,11 @@ THOMAS DIXON
 PRESIDENT OF PERU
 WITH ADMIRATION
 */
-[Blank Page]
 
 
 
 
 THE SUN VIRGIN
-[Blank Page]
 
 
 
@@ -949,7 +945,7 @@ waved to him her farewell.
 Molina was escorted to the palace of the <i>curaca</i>
 and found him living in state. Sentinels guarded
 the door and his reception room was decorated with
-hugh[**P1 typo for huge?] vases of pure gold, while the latches and door
+huge vases of pure gold, while the latches and door
 trimmings were of solid silver. He inspected the
 fortress of stones and was shown their cathedral
 building, a stone-walled Temple of the Sun. From
@@ -994,7 +990,7 @@ and reverence of worshipers.
 
 The soldier laughed at their fears, and they
 showered him with hospitalities. They conducted
-him through the outer fortess[**P1 typo for fortress?] surrounded by triple
+him through the outer fortress surrounded by triple
 walls of heavy stone. They led him into the inner
 shrine of the Temple of the Sun. He saw its walls
 literally plated with gold and silver. The heavy
@@ -1155,7 +1151,7 @@ at a swift pace. Outside the city they struck
 the great paved highway of the empire leading
 northward.
 
-At nightfall they stopped at a resthouse[**P1 rest house?] and
+At nightfall they stopped at a rest house and
 ate a sumptuous meal served with choice wines. The
 attendants wore the royal ensign which denoted
 their service of the monarch. The rest house was
@@ -1283,7 +1279,7 @@ heir Huascar."
 
 Molina listened carefully. <i>Two</i> Incas! Two
 Incas might breed jealousy. And jealousy might
-breed--[**P3: space]The young cavalier's heart beat exultantly.
+breed--The young cavalier's heart beat exultantly.
 
 An hour later the chamberlain entered with a
 group of noblemen and led Molina into the throne
@@ -1693,7 +1689,7 @@ at last. He was jealous of Pizarro, and no argument
 could move him from his hostile decision.
 
 Father Luque rose to add his voice to the plea of
-his associates, but Pizarro seized him and scowled[**P2 . ]
+his associates, but Pizarro seized him and scowled.
 
 "Not another word. We will not grovel before
 such petty jealousy."
@@ -2960,7 +2956,7 @@ necessities. If such a man still would steal, he
 was executed immediately.
 
 The men did the heavy work, the women assisting
-in seedtime and harvest. In addition to her house-*work,
+in seedtime and harvest. In addition to her house-work,
 while men tilled the fields and worked the
 mines, the women made shoes, cloth and clothes for
 their families.
@@ -3490,7 +3486,7 @@ a beautiful girl. The truth we know not."
 
 "He's lying, Your Excellency," Teresa muttered.
 
-"Perhaps so, my child," he soothed. "We'll vet[**P1 yet?]
+"Perhaps so, my child," he soothed. "We'll yet
 find the truth, never fear."
 
 The news of Molina's death Teresa did not believe
@@ -3646,7 +3642,7 @@ buttercups, each half a foot across; the <i>lignum vitæ</i>
 was covered with myriads of tiny flowers the color
 of wisteria; the royal poinciana towered in flaming
 glory among a dozen others. One variety in particular
-seemed to break into endless billows of honey-*yellow[**honey-yellow?]
+seemed to break into endless billows of honey-yellow
 as far as the eye could penetrate.
 
 And swinging through all and over all were the
@@ -6540,7 +6536,7 @@ pendants that hung from their ears.
 In an open litter Atahualpa sat on a magnificent
 throne of gold, gleaming in the rays of the sinking
 sun. The canopy above his litter was covered
-with the gayest plums[**P2: plumes?] of tropical birds and studded
+with the gayest plumes of tropical birds and studded
 with gem-set yellow plates. He wore a costume
 of more resplendant materials than at his first reception.
 His neck was circled with a collar of brilliant
@@ -6880,7 +6876,7 @@ and more wonderful and beautiful since I've known
 you."
 
 She watched him wistfully for a moment, her deep
-emotion raging, but she repressed it.[**,?] smiled and hurried
+emotion raging, but she repressed it, smiled and hurried
 to her task.
 
 Toparca called the guard, and found the eye holes
