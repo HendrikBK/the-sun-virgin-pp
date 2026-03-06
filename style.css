@@ -14,8 +14,13 @@ ul {
     padding-left: 0;
 }
 
+ul li,
 ul li p {
     text-align: center;
+}
+
+#contents td + td {
+    padding-left: 1em;
 }
 
 div.image-container {

@@ -135,7 +135,7 @@
             margin-top: 0;
             margin-bottom: 0;
             margin-left: 5%;
-            margin-right: 10%;
+            margin-right: 5%;
         }
 
         /*.sidenote {
@@ -294,7 +294,7 @@
 
 <section id="haltitlepage-1">
 <h1>
-THE SUN VIRGIN
+The Sun Virgin
 </h1>
 </section>
 
@@ -337,7 +337,7 @@ THE SUN VIRGIN
 <p class="center uc larger">by Thomas Dixon</p>
 
 <div class="image-container mt-2">
-  <img src="images/logo" alt="The publisher's logo">
+  <img src="images/logo.jpg" alt="The publisher's logo">
 </div>
 
 <p class="center uc mt-5">
@@ -359,20 +359,85 @@ THE SUN VIRGIN
 <hr class="chap x-ebookmaker-drop">
 
 <div id="dedication">
-<p>
-  <i>Dedicated to</i></span><br>
-  <span class="smcap">Augusto B. Leguía</span>
-  PRESIDENT OF PERU</span><br>
-  WITH ADMIRATION</span>
+<p class="center">
+  <i>Dedicated to</i><br>
+  <span class="smcap larger">Augusto B. Leguía</span><br>
+  <span class="uc smaller">President of Peru<br>
+  with admiration</span>
 </p>
 </div>
 
 <hr class="chap x-ebookmaker-drop">
 
+<section id="contents">
+
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="#chapter-">Chapter I</a></td>
+        <td><a href="#chapter-">Chapter XII</a></td>
+        <td><a href="#chapter-">Chapter XXIII</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter II</a></td>
+        <td><a href="#chapter-">Chapter XIII</a></td>
+        <td><a href="#chapter-">Chapter XXIV</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter III</a></td>
+        <td><a href="#chapter-">Chapter XIV</a></td>
+        <td><a href="#chapter-">Chapter XXV</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter IV</a></td>
+        <td><a href="#chapter-">Chapter XV</a></td>
+        <td><a href="#chapter-">Chapter XXVI</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter V</a></td>
+        <td><a href="#chapter-">Chapter XVI</a></td>
+        <td><a href="#chapter-">Chapter XXVII</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter VI</a></td>
+        <td><a href="#chapter-">Chapter XVII</a></td>
+        <td><a href="#chapter-">Chapter XXVIII</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter VII</a></td>
+        <td><a href="#chapter-">Chapter XVIII</a></td>
+        <td><a href="#chapter-">Chapter XXIX</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter VIII</a></td>
+        <td><a href="#chapter-">Chapter XIX</a></td>
+        <td><a href="#chapter-">Chapter XXX</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter IX</a></td>
+        <td><a href="#chapter-">Chapter XX</a></td>
+        <td><a href="#chapter-">Chapter XXXI</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter X</a></td>
+        <td><a href="#chapter-">Chapter XXI</a></td>
+        <td><a href="#chapter-">Chapter XXXII</a></td>
+      </tr>
+      <tr>
+        <td><a href="#chapter-">Chapter XI</a></td>
+        <td><a href="#chapter-">Chapter XXII</a></td>
+        <td><a href="#chapter-">Chapter XXXIII</a></td>
+      </tr>
+</tbody>
+</table>
+</section>
+
+<hr class="chap x-ebookmaker-drop">
+
 <section id="halftitlepage">
-  <h2>
-    THE SUN VIRGIN
-  </h2>
+  <header>
+    <p class="center uc larger">The Sun Virgin</p>
+  </header>
 </section>
 
 
@@ -7101,9 +7166,11 @@ have broken our agreement and intend to set up a rival government.
 Hasten to Caxamalca. Your old friend will receive you with open arms
 and equal authority.</i></p>
 
+<footer>
 <p>
-  <span style="margin-left: 2.0em;">“<i>Francisco Pizarro.</i>”</span>
+  “<i>Francisco Pizarro.</i>”
 </p>
+</footer>
 </blockquote>
 
 <p>Almagro’s answer to this generous letter was characteristic of the man.</p>
