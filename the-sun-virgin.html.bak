@@ -145,13 +145,13 @@ section > h3 {
     margin-bottom: 2em;
 }
 
-ul {
+#adv ul {
     list-style-type: none;
     padding-left: 0;
 }
 
-ul li,
-ul li p {
+#adv ul li,
+#adv ul li p {
     text-align: center;
 }
 
@@ -192,6 +192,14 @@ footer p {
         body > div {
             page-break-before: always;
         }
+
+.transnote {background-color: #E6E6FA;
+    color: black;
+    font-size:small;
+    padding:0.5em;
+    margin-bottom:5em;
+    font-family:sans-serif, serif;
+}
 
     </style>
 </head>
@@ -9377,5 +9385,20 @@ ruins of the old empire the great free republics of the South.</p>
 
 <p class="center uc">The End</p>
 </section>
+
+  <hr class="chap x-ebookmaker-drop">
+
+<div class="transnote">
+
+<header><p class="center uc">Transcriber’s Notes</p></header>
+
+<ul>
+  <li>
+    <p>Clear typos and wrong punctuation were corrected.</p>
+  </li>
+  <li>
+    <p>A table of contents was create for this edition.</p>
+  </li>
+</ul>
 </body>
 </html>

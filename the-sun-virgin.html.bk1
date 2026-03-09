@@ -58,56 +58,11 @@
             }
         }
 
-        hr.full {
-            width: 95%;
-            margin-left: 2.5%;
-            margin-right: 2.5%;
-        }
-
-        div.chapter {page-break-before: always;}
-        h2.nobreak  {page-break-before: avoid;}
-
-        /*ul.index { list-style-type: none; }
-        li.ifrst {
-            margin-top: 1em;
-            text-indent: -2em;
-            padding-left: 1em;
-        }
-        li.indx  {
-            margin-top: .5em;
-            text-indent: -2em;
-            padding-left: 1em;
-        }
-        li.isub1 {
-            text-indent: -2em;
-            padding-left: 2em;
-        }
-        li.isub2 {
-            text-indent: -2em;
-            padding-left: 3em;
-        }
-        li.isub3 {
-            text-indent: -2em;
-            padding-left: 4em;
-        }
-        li.isub4 {
-            text-indent: -2em;
-            padding-left: 5em;
-        }*/
 
         table {
             margin-left: auto;
             margin-right: auto;
         }
-        /*table.autotable    { border-collapse: collapse; }
-        table.autotable td,
-        table.autotable th { padding: 0.25em; }
-
-        .tdl      {text-align: left;}
-        .tdr      {text-align: right;}
-        .tdc      {text-align: center;}*/
-
-        /* Page numbers */
 
         .pagenum { /* uncomment the next line for invisible page numbers */
             /*  visibility: hidden;  */
@@ -120,15 +75,6 @@
             font-variant: normal;
             text-indent: 0;
         }
-
-        /*.linenum {
-            position: absolute;
-            top: auto;
-            left: 4%;
-            font-style: normal;
-            font-weight: normal;
-            font-variant: normal;
-        }*/
 
         blockquote {
             margin-top: 0;
@@ -160,53 +106,13 @@
             height: auto;
         }
 
-        /* Footnotes */
-        .footnotes        {border: 1px dashed;}
 
-        .footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
 
-        .footnote .label  {position: absolute; right: 84%; text-align: right;}
-
-        .fnanchor {
-            vertical-align: super;
-            font-size: .8em;
-            text-decoration:
-            none;
-        }
-
-        /* Poetry */
-        /* uncomment the next line for centered poetry */
-        /* .poetry-container {display: flex; justify-content: center;} */
-        .poetry-container {text-align: center;}
-        .poetry           {text-align: left; margin-left: 5%; margin-right: 5%;}
-        .poetry .stanza   {margin: 1em auto;}
-        .poetry .verse    {text-indent: -3em; padding-left: 3em;}
-
-        /* Transcriber's notes */
-        .transnote {background-color: #E6E6FA;
-            color: black;
-            font-size:small;
-            padding:0.5em;
-            margin-bottom:5em;
-            font-family:sans-serif, serif;
-        }
 
         /* General CSS */
 
         *.center {
             text-align: center;
-            text-indent: 0;
-        }
-
-        *.left {
-            text-align: left;
-        }
-
-        *.right {
-            text-align: right;
-        }
-
-        p.noindent {
             text-indent: 0;
         }
 
@@ -218,11 +124,6 @@
 
         *.smcap {
             font-variant: small-caps;
-        }
-
-        *.allsmcap {
-            font-variant: small-caps;
-            text-Transform: lowercase;
         }
 
         *.larger {
@@ -284,59 +185,11 @@ footer p {
             margin-top: 5em;
         }
 
-        *.mb-1 {
-            margin-bottom: 1em;
-        }
-
-        *.ml-1 {
-            margin-left: 1em;
-        }
-
-        *.mr-1 {
-            margin-right: 1em;
-        }
-
-        *.mx-1 {
-            margin-left: 1em;
-            margin-right: 1em;
-        }
-
-        *.my-1 {
-            margin-top: 1em;
-            margin-bottom: 1em;
-        }
-
-        *.pt-1 {
-            padding-top: 1em;
-        }
-
-        *.pr-1 {
-            padding-right: 1em;
-        }
-
-        *.pb-1 {
-            padding-bottom: 1em;
-        }
-
-        *.pl-1 {
-            padding-left: 1em;
-        }
-
-        *.px-1 {
-            padding-left: 1em;
-            padding-right: 1em;
-        }
-
-        *.py-1 {
-            padding-top: 1em;
-            padding-bottom: 1em;
-        }
 
         /* Breaks */
 
         body > section,
-        body > div,
-        *.break {
+        body > div {
             page-break-before: always;
         }
 
@@ -423,8 +276,7 @@ The Sun Virgin
 
 <section id="contents">
 
-
-
+<h2>Contents</h2>
   <table>
     <tbody>
       <tr>
@@ -488,11 +340,11 @@ The Sun Virgin
 
 <hr class="chap x-ebookmaker-drop">
 
-<section id="halftitlepage">
+<div id="halftitlepage">
   <header>
     <p class="center uc larger">The Sun Virgin</p>
   </header>
-</section>
+</div>
 
 
   <hr class="chap x-ebookmaker-drop">
@@ -9525,5 +9377,7 @@ ruins of the old empire the great free republics of the South.</p>
 
 <p class="center uc">The End</p>
 </section>
+
+<div class="transnote"
 </body>
 </html>
