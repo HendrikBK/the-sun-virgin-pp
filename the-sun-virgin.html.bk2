@@ -232,6 +232,10 @@
             margin-top: 1em;
         }
 
+        *.mt-5 {
+            margin-top: 5em;
+        }
+
         *.mb-1 {
             margin-bottom: 1em;
         }
@@ -371,21 +375,23 @@ The Sun Virgin
 
 <section id="contents">
 
+
+
   <table>
     <tbody>
       <tr>
-        <td><a href="#chapter-">Chapter I</a></td>
-        <td><a href="#chapter-">Chapter XII</a></td>
-        <td><a href="#chapter-">Chapter XXIII</a></td>
+        <td><a href="#chapter-1">Chapter I</a></td>
+        <td><a href="#chapter-12">Chapter XII</a></td>
+        <td><a href="#chapter-23">Chapter XXIII</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter II</a></td>
-        <td><a href="#chapter-">Chapter XII</a></td>
-        <td><a href="#chapter-">Chapter XXIV</a></td>
+        <td><a href="#chapter-2">Chapter II</a></td>
+        <td><a href="#chapter-13">Chapter XIII</a></td>
+        <td><a href="#chapter-24">Chapter XXIV</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter III</a></td>
-        <td><a href="#chapter-">Chapter XIV</a></td>
+        <td><a href="#chapter-3">Chapter III</a></td>
+        <td><a href="#chapter-14">Chapter XIV</a></td>
         <td><a href="#chapter-">Chapter XXV</a></td>
       </tr>
       <tr>
@@ -406,27 +412,27 @@ The Sun Virgin
       <tr>
         <td><a href="#chapter-">Chapter VII</a></td>
         <td><a href="#chapter-">Chapter XVIII</a></td>
-        <td><a href="#chapter-">Chapter </a></td>
+        <td><a href="#chapter-">Chapter XXIX</a></td>
       </tr>
       <tr>
         <td><a href="#chapter-">Chapter VIII</a></td>
         <td><a href="#chapter-">Chapter XIX</a></td>
-        <td><a href="#chapter-">Chapter </a></td>
+        <td><a href="#chapter-">Chapter XXX</a></td>
       </tr>
       <tr>
         <td><a href="#chapter-">Chapter IX</a></td>
         <td><a href="#chapter-">Chapter XX</a></td>
-        <td><a href="#chapter-">Chapter </a></td>
+        <td><a href="#chapter-">Chapter XXXI</a></td>
       </tr>
       <tr>
         <td><a href="#chapter-">Chapter X</a></td>
         <td><a href="#chapter-">Chapter XXI</a></td>
-        <td><a href="#chapter-">Chapter </a></td>
+        <td><a href="#chapter-">Chapter XXXII</a></td>
       </tr>
       <tr>
         <td><a href="#chapter-">Chapter XI</a></td>
         <td><a href="#chapter-">Chapter XXII</a></td>
-        <td><a href="#chapter-">Chapter </a></td>
+        <td><a href="#chapter-">Chapter XXXIII</a></td>
       </tr>
 </tbody>
 </table>

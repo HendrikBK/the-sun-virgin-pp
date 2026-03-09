@@ -8,7 +8,6 @@
       The Sun virgin | Project Gutenberg
     </title>
     <link rel="icon" href="images/cover.jpg" type="image/x-cover">
-    <link rel="stylesheet" href="style.css">
     <style>
 
         body {
@@ -59,56 +58,11 @@
             }
         }
 
-        hr.full {
-            width: 95%;
-            margin-left: 2.5%;
-            margin-right: 2.5%;
-        }
-
-        div.chapter {page-break-before: always;}
-        h2.nobreak  {page-break-before: avoid;}
-
-        /*ul.index { list-style-type: none; }
-        li.ifrst {
-            margin-top: 1em;
-            text-indent: -2em;
-            padding-left: 1em;
-        }
-        li.indx  {
-            margin-top: .5em;
-            text-indent: -2em;
-            padding-left: 1em;
-        }
-        li.isub1 {
-            text-indent: -2em;
-            padding-left: 2em;
-        }
-        li.isub2 {
-            text-indent: -2em;
-            padding-left: 3em;
-        }
-        li.isub3 {
-            text-indent: -2em;
-            padding-left: 4em;
-        }
-        li.isub4 {
-            text-indent: -2em;
-            padding-left: 5em;
-        }*/
 
         table {
             margin-left: auto;
             margin-right: auto;
         }
-        /*table.autotable    { border-collapse: collapse; }
-        table.autotable td,
-        table.autotable th { padding: 0.25em; }
-
-        .tdl      {text-align: left;}
-        .tdr      {text-align: right;}
-        .tdc      {text-align: center;}*/
-
-        /* Page numbers */
 
         .pagenum { /* uncomment the next line for invisible page numbers */
             /*  visibility: hidden;  */
@@ -121,15 +75,6 @@
             font-variant: normal;
             text-indent: 0;
         }
-
-        /*.linenum {
-            position: absolute;
-            top: auto;
-            left: 4%;
-            font-style: normal;
-            font-weight: normal;
-            font-variant: normal;
-        }*/
 
         blockquote {
             margin-top: 0;
@@ -161,53 +106,13 @@
             height: auto;
         }
 
-        /* Footnotes */
-        .footnotes        {border: 1px dashed;}
 
-        .footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
 
-        .footnote .label  {position: absolute; right: 84%; text-align: right;}
-
-        .fnanchor {
-            vertical-align: super;
-            font-size: .8em;
-            text-decoration:
-            none;
-        }
-
-        /* Poetry */
-        /* uncomment the next line for centered poetry */
-        /* .poetry-container {display: flex; justify-content: center;} */
-        .poetry-container {text-align: center;}
-        .poetry           {text-align: left; margin-left: 5%; margin-right: 5%;}
-        .poetry .stanza   {margin: 1em auto;}
-        .poetry .verse    {text-indent: -3em; padding-left: 3em;}
-
-        /* Transcriber's notes */
-        .transnote {background-color: #E6E6FA;
-            color: black;
-            font-size:small;
-            padding:0.5em;
-            margin-bottom:5em;
-            font-family:sans-serif, serif;
-        }
 
         /* General CSS */
 
         *.center {
             text-align: center;
-            text-indent: 0;
-        }
-
-        *.left {
-            text-align: left;
-        }
-
-        *.right {
-            text-align: right;
-        }
-
-        p.noindent {
             text-indent: 0;
         }
 
@@ -221,10 +126,50 @@
             font-variant: small-caps;
         }
 
-        *.allsmcap {
-            font-variant: small-caps;
-            text-Transform: lowercase;
+        *.larger {
+          font-size:larger;
         }
+
+        *.smaller {
+          font-size: smaller;
+        }
+
+header h3 + p {
+    text-align: center;
+    text-indent: 0;
+    text-transform: uppercase;
+}
+
+section > header,
+section > h3 {
+    margin-bottom: 2em;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li,
+ul li p {
+    text-align: center;
+}
+
+#contents td + td {
+    padding-left: 1em;
+}
+
+div.image-container {
+    text-align: center;
+}
+
+#titlepage img {
+    width: 4em;
+}
+
+footer p {
+    text-align: right;
+}
 
         /* Margins and padding */
 
@@ -232,59 +177,19 @@
             margin-top: 1em;
         }
 
-        *.mb-1 {
-            margin-bottom: 1em;
+        *.mt-2 {
+            margin-top: 2em;
         }
 
-        *.ml-1 {
-            margin-left: 1em;
+        *.mt-5 {
+            margin-top: 5em;
         }
 
-        *.mr-1 {
-            margin-right: 1em;
-        }
-
-        *.mx-1 {
-            margin-left: 1em;
-            margin-right: 1em;
-        }
-
-        *.my-1 {
-            margin-top: 1em;
-            margin-bottom: 1em;
-        }
-
-        *.pt-1 {
-            padding-top: 1em;
-        }
-
-        *.pr-1 {
-            padding-right: 1em;
-        }
-
-        *.pb-1 {
-            padding-bottom: 1em;
-        }
-
-        *.pl-1 {
-            padding-left: 1em;
-        }
-
-        *.px-1 {
-            padding-left: 1em;
-            padding-right: 1em;
-        }
-
-        *.py-1 {
-            padding-top: 1em;
-            padding-bottom: 1em;
-        }
 
         /* Breaks */
 
         body > section,
-        body > div,
-        *.break {
+        body > div {
             page-break-before: always;
         }
 
@@ -371,64 +276,63 @@ The Sun Virgin
 
 <section id="contents">
 
-
-
+<h2>Contents</h2>
   <table>
     <tbody>
       <tr>
-        <td><a href="#chapter-">Chapter I</a></td>
-        <td><a href="#chapter-">Chapter XII</a></td>
-        <td><a href="#chapter-">Chapter XXIII</a></td>
+        <td><a href="#chapter-1">Chapter I</a></td>
+        <td><a href="#chapter-12">Chapter XII</a></td>
+        <td><a href="#chapter-23">Chapter XXIII</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter II</a></td>
-        <td><a href="#chapter-">Chapter XIII</a></td>
-        <td><a href="#chapter-">Chapter XXIV</a></td>
+        <td><a href="#chapter-2">Chapter II</a></td>
+        <td><a href="#chapter-13">Chapter XIII</a></td>
+        <td><a href="#chapter-24">Chapter XXIV</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter III</a></td>
-        <td><a href="#chapter-">Chapter XIV</a></td>
-        <td><a href="#chapter-">Chapter XXV</a></td>
+        <td><a href="#chapter-3">Chapter III</a></td>
+        <td><a href="#chapter-14">Chapter XIV</a></td>
+        <td><a href="#chapter-25">Chapter XXV</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter IV</a></td>
-        <td><a href="#chapter-">Chapter XV</a></td>
-        <td><a href="#chapter-">Chapter XXVI</a></td>
+        <td><a href="#chapter-4">Chapter IV</a></td>
+        <td><a href="#chapter-15">Chapter XV</a></td>
+        <td><a href="#chapter-26">Chapter XXVI</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter V</a></td>
-        <td><a href="#chapter-">Chapter XVI</a></td>
-        <td><a href="#chapter-">Chapter XXVII</a></td>
+        <td><a href="#chapter-5">Chapter V</a></td>
+        <td><a href="#chapter-16">Chapter XVI</a></td>
+        <td><a href="#chapter-27">Chapter XXVII</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter VI</a></td>
-        <td><a href="#chapter-">Chapter XVII</a></td>
-        <td><a href="#chapter-">Chapter XXVIII</a></td>
+        <td><a href="#chapter-6">Chapter VI</a></td>
+        <td><a href="#chapter-17">Chapter XVII</a></td>
+        <td><a href="#chapter-28">Chapter XXVIII</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter VII</a></td>
-        <td><a href="#chapter-">Chapter XVIII</a></td>
-        <td><a href="#chapter-">Chapter XXIX</a></td>
+        <td><a href="#chapter-7">Chapter VII</a></td>
+        <td><a href="#chapter-18">Chapter XVIII</a></td>
+        <td><a href="#chapter-29">Chapter XXIX</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter VIII</a></td>
-        <td><a href="#chapter-">Chapter XIX</a></td>
-        <td><a href="#chapter-">Chapter XXX</a></td>
+        <td><a href="#chapter-8">Chapter VIII</a></td>
+        <td><a href="#chapter-19">Chapter XIX</a></td>
+        <td><a href="#chapter-30">Chapter XXX</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter IX</a></td>
-        <td><a href="#chapter-">Chapter XX</a></td>
-        <td><a href="#chapter-">Chapter XXXI</a></td>
+        <td><a href="#chapter-9">Chapter IX</a></td>
+        <td><a href="#chapter-20">Chapter XX</a></td>
+        <td><a href="#chapter-31">Chapter XXXI</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter X</a></td>
-        <td><a href="#chapter-">Chapter XXI</a></td>
-        <td><a href="#chapter-">Chapter XXXII</a></td>
+        <td><a href="#chapter-10">Chapter X</a></td>
+        <td><a href="#chapter-21">Chapter XXI</a></td>
+        <td><a href="#chapter-32">Chapter XXXII</a></td>
       </tr>
       <tr>
-        <td><a href="#chapter-">Chapter XI</a></td>
-        <td><a href="#chapter-">Chapter XXII</a></td>
-        <td><a href="#chapter-">Chapter XXXIII</a></td>
+        <td><a href="#chapter-11">Chapter XI</a></td>
+        <td><a href="#chapter-22">Chapter XXII</a></td>
+        <td><a href="#chapter-33">Chapter XXXIII</a></td>
       </tr>
 </tbody>
 </table>
@@ -436,11 +340,11 @@ The Sun Virgin
 
 <hr class="chap x-ebookmaker-drop">
 
-<section id="halftitlepage">
+<div id="halftitlepage">
   <header>
     <p class="center uc larger">The Sun Virgin</p>
   </header>
-</section>
+</div>
 
 
   <hr class="chap x-ebookmaker-drop">
