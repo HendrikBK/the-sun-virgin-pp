@@ -138,39 +138,39 @@
           font-size: smaller;
         }
 
-header h3 + p {
-    text-align: center;
-    text-indent: 0;
-    text-transform: uppercase;
-}
+        header h3 + p {
+            text-align: center;
+            text-indent: 0;
+            text-transform: uppercase;
+        }
 
-section > header,
-section > h3 {
-    margin-bottom: 2em;
-}
+        section > header,
+        section > h3 {
+            margin-bottom: 2em;
+        }
 
-#adv ul,
-#contents ul {
-    list-style-type: none;
-    padding-left: 0;
-}
+        #adv ul,
+        #contents ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
 
-#adv ul li,
-#adv ul li p {
-    text-align: center;
-}
+        #adv ul li,
+        #adv ul li p {
+            text-align: center;
+        }
 
-div.image-container {
-    text-align: center;
-}
+        div.image-container {
+            text-align: center;
+        }
 
-#titlepage img {
-    width: 4em;
-}
+        #titlepage img {
+            width: 4em;
+        }
 
-footer p {
-    text-align: right;
-}
+        footer p {
+            text-align: right;
+        }
 
         /* Margins and padding */
 
@@ -194,17 +194,17 @@ footer p {
             page-break-before: always;
         }
 
-.transnote {background-color: #E6E6FA;
-    color: black;
-    font-size:small;
-    padding:0.5em;
-    margin-bottom:5em;
-    font-family:sans-serif, serif;
-}
+        .transnote {background-color: #E6E6FA;
+            color: black;
+            font-size:small;
+            padding:0.5em;
+            margin-bottom:5em;
+            font-family:sans-serif, serif;
+        }
 
-h2.hidden {
-    display: none;
-}
+        h2.hidden {
+            display: none;
+        }
 
     </style>
 </head>
@@ -3562,7 +3562,7 @@ weird spot I think the serpents will watch you as charmed as I.”</p>
 
 <p>The girl removed her outer cloak and Molina saw to his surprise that
 her body was bare above the waistline except for the gold-meshed
-brassière. Never in the wildest flight of fancy had he dreamed the
+brassiere. Never in the wildest flight of fancy had he dreamed the
 alluring grace with which her arms, body, and supple limbs now moved
 in a silent imitation of every motion possible in the sinuous glide
 of the serpent. She seemed a living part of the wild spot which she
@@ -9377,14 +9377,17 @@ ruins of the old empire the great free republics of the South.</p>
 
 <section class="transnote">
 
-<h2 class="hidden">Transcriber’s Notes</h2>
+<h2>Transcriber’s Notes</h2>
 
 <ul>
   <li>
     <p>Clear typos and wrong punctuation were corrected.</p>
   </li>
   <li>
-    <p>A table of contents was create for this edition.</p>
+    <p>A table of contents was created for this edition.</p>
+  </li>
+  <li>
+    <p>An acute accent was added to “Leguía.”</p>
   </li>
 </ul>
 </section>

@@ -78,6 +78,11 @@ CONTENTS
   CHAPTER XI
   CHAPTER XII
   CHAPTER XIII
+  CHAPTER XIV
+  CHAPTER XV
+  CHAPTER XVI
+  CHAPTER XVII
+  CHAPTER XVIII
   CHAPTER XIX
   CHAPTER XX
   CHAPTER XXI
@@ -3230,7 +3235,7 @@ weird spot I think the serpents will watch you as charmed as I.”
 
 The girl removed her outer cloak and Molina saw to his surprise that
 her body was bare above the waistline except for the gold-meshed
-brassière. Never in the wildest flight of fancy had he dreamed the
+brassiere. Never in the wildest flight of fancy had he dreamed the
 alluring grace with which her arms, body, and supple limbs now moved
 in a silent imitation of every motion possible in the sinuous glide
 of the serpent. She seemed a living part of the wild spot which she
@@ -8818,4 +8823,6 @@ TRANSCRIBER’S NOTES
 
   - Text between _underscores_ represents italics.
 
-  - A table of contents was create for this edition.
+  - A table of contents was created for this edition.
+
+  - An acute accent was added to “Leguía.”
